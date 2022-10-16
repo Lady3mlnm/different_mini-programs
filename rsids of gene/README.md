@@ -1,0 +1,1 @@
+Simple script for extracting data from NCBI-pages. The program gets list of variations, determine if there is rsid for each of variation, and, if YES, extract data from page for this rsid, and place result in csv-spreadsheet. List of variations can be get from [https://www.ncbi.nlm.nih.gov/clinvar/](https://www.ncbi.nlm.nih.gov/clinvar/), made query, download result as "UI List".

@@ -1,0 +1,4 @@
+#,rsid,organism,position,ref_genome,ref_allele,alt_alleles,variation_type,clinical_significance,gene_consequence,publications,url_rsid,variation,url_variation
+2,rs186838828,Homo sapiens,2:166195246,GRCh38.p13,T,A,SNV,Reported in ClinVar,SCN1A-AS1 : Intron Variant; SCN9A : 3 Prime UTR Variant,0 citations,https://www.ncbi.nlm.nih.gov/snp/rs186838828,331895,https://www.ncbi.nlm.nih.gov/clinvar/variation/331895/
+3,rs1553473041,Homo sapiens,2:166199288,GRCh38.p13,-,-,Deletion,Reported in ClinVar,SCN9A : Frameshift Variant; SCN1A-AS1 : Intron Variant,0 citations,https://www.ncbi.nlm.nih.gov/snp/rs1553473041,471143,https://www.ncbi.nlm.nih.gov/clinvar/variation/471143/
+4,rs372210358,Homo sapiens,2:166199392,GRCh38.p13,C,G,SNV,Reported in ClinVar,SCN9A : Synonymous Variant; SCN1A-AS1 : Intron Variant,0 citations,https://www.ncbi.nlm.nih.gov/snp/rs372210358,892607,https://www.ncbi.nlm.nih.gov/clinvar/variation/892607/

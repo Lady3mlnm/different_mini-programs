@@ -1,0 +1,6 @@
+#,rsid,organism,position,ref_genome,ref_allele,alt_alleles,variation_type,clinical_significance,gene_consequence,publications
+0,rs5128,Homo sapiens,chr11:116832924,GRCh38.p13,G,C,SNV,Not Reported in ClinVar,APOC3 : 3 Prime UTR Variant,47 citations
+1,rs7412,Homo sapiens,chr19:44908822,GRCh38.p13,C,T,SNV,Reported in ClinVar,APOE : Missense Variant,386 citations
+2,rs1799752,Homo sapiens,chr17:63488530-63488543,GRCh38.p13,-,-,Indel,Reported in ClinVar,ACE : Intron Variant,74 citations
+3,rs186838828,Homo sapiens,chr2:166195246,GRCh38.p13,T,A,SNV,Reported in ClinVar,SCN1A-AS1 : Intron Variant; SCN9A : 3 Prime UTR Variant,0 citations
+4,rs191667986,Homo sapiens,chr2:166195355,GRCh38.p13,T,C,SNV,Reported in ClinVar,SCN1A-AS1 : Intron Variant; SCN9A : 3 Prime UTR Variant,0 citations
